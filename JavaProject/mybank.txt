@@ -1,0 +1,7 @@
+CUSTOMER NAME : SAGARIKA CHOUDHARY 
+WITHDRAWN. Remaining balance in account:195000.0
+WITHDRAWN. Remaining balance in account:190000.0
+DEPOSITED. Remaining balance in account:210000.0
+SIMPLE INTEREST is :140000.0
+DEPOSITED. Remaining balance in account:230150.0
+SIMPLE INTEREST is :161105.0
